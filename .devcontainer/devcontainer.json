@@ -1,3 +1,9 @@
 {
-  "dockerFile": "Dockerfile"
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
 }
