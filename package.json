@@ -1,0 +1,7 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
